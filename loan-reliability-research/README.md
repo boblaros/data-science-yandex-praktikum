@@ -10,11 +10,11 @@ Determine if there is an impact of marital status and the number of children on 
 
 ## Research Plan
 
-1. **[Project Description]**
-2. **[Data Overview]**
-3. **[Data Preprocessing]**
-4. **[Data Analysis]**
-5. **[Conclusion]**
+1. Project Description
+2. Data Overview
+3. Data Preprocessing
+4. Data Analysis
+5. Conclusion
 
 
 ## Key Findings
