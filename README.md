@@ -3,3 +3,5 @@ This repository contains a collection of projects developed during a year-long a
 | Project name               | Description                                     | Libraries used |
 |----------------------------|-------------------------------------------------|----------------|
 | [Big City Music](https://github.com/boblaros/data-science-yandex-praktikum/tree/17123f819e1ea69b419044d8577d9e000622441d/music-preferences-analysis) | Project analyzing music preferences in Moscow and Saint-Petersburg | Pandas |
+| [Loan Reliability Research](https://github.com/boblaros/data-science-yandex-praktikum/tree/17123f819e1ea69b419044d8577d9e000622441d/music-preferences-analysis) | Project analyzing the impact of marital status and number of children on timely loan repayment.
+ | Pandas |
