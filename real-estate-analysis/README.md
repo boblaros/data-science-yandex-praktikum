@@ -42,22 +42,21 @@ Each apartment listing includes two types of data: user-provided and automatical
 
 ## Research Plan
 
-1. **[Project Description](#1)**
+1. Project Description
    - Introduction to the project and objectives.
 
-2. **[Data Overview](#2)**
+2. Data Overview
    - Detailed examination of the dataset structure and contents.
 
-3. **[Data Preprocessing](#3)**
+3. Data Preprocessing
    - Cleaning and preparing the data for analysis.
 
-4. **[Data Design](#4)**
+4. Data Design
    - Designing data models and frameworks for the study.
 
-5. **[Data Exploration](#5)**
+5. Data Exploration
    - Analyzing the data to uncover patterns and insights.
-
-6. **[Conclusion](#6)**
+6. Conclusion
    - Summarizing findings and proposing next steps.
 
 By following this structured plan, we aim to gain meaningful insights from the real estate data and develop an effective system to detect anomalies and potential fraudulent activities.
