@@ -7,3 +7,6 @@ This repository contains a collection of projects developed during a year-long a
 | 3 | [Real Estate Analysis](https://github.com/boblaros/data-science-yandex-praktikum/tree/cdb8f36a40530411926304e4eddddcbcb824eef1/real-estate-analysis) | Project analyzing real estate data to detect anomalies and fraudulent activities in St. Petersburg and nearby localities. | Pandas, Matplotlib |
 | 4 | [Scooter Rental Service Analysis](https://github.com/boblaros/data-science-yandex-praktikum/tree/main/scooter-rental-service-analysis) | Project analyzing user data and trip patterns for the GoFast scooter rental service across several cities. | Pandas, Matplotlib, Stats, Math |
 | 5 | [Games Sales Analysis](https://github.com/boblaros/data-science-yandex-praktikum/tree/main/game-sales-analysis) | Project analyzing game sales data from the Streamchik online store to identify key success factors and growth opportunities. | Pandas, Numpy, Matplotlib, Stats, Math |
+| 6 | [Farm Data Analysis](https://github.com/boblaros/data-science-yandex-praktikum/tree/main/farm-data-analysis) | Project aims to develop machine learning models to predict milk yield and milk taste quality for cows at the dairy farm "Volny Lug," enhancing cattle selection processes. | Sklearn, Pandas, Numpy, Matplotlib, Stats, Math, Seaborn |
+
+
