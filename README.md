@@ -9,5 +9,6 @@ This repository contains a collection of projects developed during a year-long a
 | 5 | [Games Sales Analysis](https://github.com/boblaros/data-science-yandex-praktikum/tree/main/game-sales-analysis) | Project analyzing game sales data from the Streamchik online store to identify key success factors and growth opportunities. | Pandas, Numpy, Matplotlib, Stats, Math |
 | 6 | [Farm Data Analysis](https://github.com/boblaros/data-science-yandex-praktikum/tree/main/farm-data-analysis) | Project aims to develop machine learning models to predict milk yield and milk taste quality for cows at the dairy farm "Volny Lug," enhancing cattle selection processes. | Sklearn, Pandas, Numpy, Matplotlib, Stats, Math, Seaborn |
 | 7 | [Retail Store Analysis](https://github.com/boblaros/data-science-yandex-praktikum/tree/main/retail-store-analysis) | Project predicting customer activity decline and identifying key engagement factors for Online Retail Store. | Sklearn, Shap, Phik, Pandas, Numpy, Matplotlib, Stats, Math, Seaborn |
+| 8 | [Employee Satisfaction & Turnover Prediction Project](https://github.com/boblaros/data-science-yandex-praktikum/tree/main/employee-satisfaction-turnover-prediction) | Project predicting employee satisfaction and turnover for better workforce management. | Sklearn, Shap, Phik, Pandas, Numpy, Matplotlib, Stats, Math, Seaborn |
 
 
