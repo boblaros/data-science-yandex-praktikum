@@ -10,4 +10,4 @@
 
 **Conclusion:**
 
-This project delves into employee satisfaction and turnover prediction for GlavRosGosOil, employing data-driven models and risk assessment techniques to determine optimal drilling locations, ensuring informed decision-making.
+This project aims to optimize drilling site selection process through robust data modeling and risk evaluation methodologies.
