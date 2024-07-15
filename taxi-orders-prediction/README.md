@@ -1,14 +1,19 @@
 # Taxi Order Prediction Project
 
-**Client**: "Chotenkoye Taxi"
+## Client
+"Chotenkoye Taxi"
 
-**Data**: Historical data on taxi orders at airports
+## Data
+Historical data on taxi orders at airports
 
-**Client Request**: Attract more drivers during peak load times
+## Client Request
+Attract more drivers during peak load times
 
-**Project Goal**: Develop a machine learning model to predict the number of taxi orders for the next hour
+## Project Goal
+Develop a machine learning model to predict the number of taxi orders for the next hour
 
-**Model Quality Criterion**: The RMSE metric value on the test set should be no more than 48
+## Model Quality Criterion
+The RMSE metric value on the test set should be no more than 48
 
 ## Conclusion
 
