@@ -1,11 +1,13 @@
-# Comment Moderation Model
+# Comment Moderation Tool
 
-**Client**: Wikishop Online Store
+## Client
+Wikishop Online Store
 
-**Context**: Wikishop is launching a new feature where users can edit and enhance product descriptions similar to wiki communities. Users will propose edits and comment on changes made by others. The store needs a tool to identify toxic comments and send them for moderation.
+## Context
+Wikishop is launching a new feature where users can edit and enhance product descriptions similar to wiki communities. Users will propose edits and comment on changes made by others. The store needs a tool to identify toxic comments and send them for moderation.
 
-**Project Goal**: Train a model to classify comments as `positive` or `negative` with an F1 score of at least 0.75.
-
+## Project Goal
+Train a model to classify comments as `positive` or `negative` with an F1 score of at least 0.75.
 
 ## Conclusion
 
